@@ -1,0 +1,78 @@
+{
+  "profesores": [
+    {
+      "nombre": "javier",
+      "apellido": "cabrera",
+      "materias": [
+        {
+          "nombre": "NombreJS desde Cero"
+        },
+        {
+          "nombre": "ReactJS desde Cero"
+        },
+        {
+          "nombre": "JavaScript desde Cero"
+        }
+      ],
+      "id": "3cbe"
+    },
+    {
+      "0": {
+        "nombre": "Enrique",
+        "apellido": "cabrera",
+        "materias": [
+          {
+            "nombre": "NombreJS desde Cero"
+          },
+          {
+            "nombre": "ReactJS desde Cero"
+          },
+          {
+            "nombre": "JavaScript desde Cero"
+          }
+        ]
+      },
+      "id": "fcf9"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "promedio": 8.2,
+      "id": "9d48"
+    },
+    {
+      "nombre": "Alfonsina",
+      "apellido": "Storni",
+      "promedio": 8.4,
+      "id": "1853"
+    },
+    {
+      "id": "5c1a",
+      "nombre": "George",
+      "apellido": "Orwell",
+      "promedio": 10
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NombreJS desde Cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "f4f5"
+    },
+    {
+      "nombre": "ReactJS desde Cero",
+      "duracion": 8,
+      "dificultad": "intermedia",
+      "id": "991f"
+    },
+    {
+      "nombre": "JavaScript desde Cero",
+      "duracion": 9,
+      "dificultad": "intermedia",
+      "id": "36a1"
+    }
+  ]
+}
